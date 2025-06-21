@@ -3,16 +3,25 @@
 @media screen and (min-width: 768px) {
       header .logo {
             text-align: left;
+            /*logo a sinistra */
       }
 
-      main content: {
+      .main-content {
             padding: 32px;
-            .
+
             /*aumenta il padding */
       }
 
       .extra-text {
             display: block;
+            /* mostra il testo extra */
+      }
+
+      .recipe-title {
+            width: 100%;
+            font-size: 3.2rem;
+            /* aumenta la dimensione del titolo  */
+
       }
 }
 
