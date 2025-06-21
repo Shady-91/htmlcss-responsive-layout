@@ -1,0 +1,20 @@
+/* modalita Tablet */
+
+@media screen and (min-width: 768px) {
+      header .logo {
+            text align: left:
+      }
+
+      main content: {
+            padding: 32px;
+            .
+            /*aumenta il padding */
+      }
+
+      .extra-text {
+            display: block;
+      }
+}
+
+/* modalita Desktop */
+@media screen and (min-width: 992px) {}
